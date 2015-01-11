@@ -1,0 +1,14 @@
+#hotroom - Web accessible temperature measurement of my room.
+
+It is summer.
+Australia is hot.
+I live in Australia.
+My room is hot.
+
+I usually escapes to library when it's too hot.
+I want to know if my room is cool enough for me to come home.
+So I make this script to send my room temperature to the internet.
+
+Stream is at https://data.sparkfun.com/dayave
+
+Uses the python-phant library from https://github.com/matze/python-phant
